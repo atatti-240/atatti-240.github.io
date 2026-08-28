@@ -5,17 +5,10 @@
 ### Featured Projects
 
 [StockSpot — Algorithmic Trading System](/stockspot)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 [AIchessbot — UCI Chess Engine (~3100 Elo)](https://github.com/atatti-240/AIchessbot)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-[AI Trading Assistant](https://github.com/atatti-240/ai-finance-trading-assistant)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
