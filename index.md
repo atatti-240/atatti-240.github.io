@@ -2,34 +2,32 @@
 
 ---
 
-### Category Name 1 
+### Featured Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[StockSpot — Algorithmic Trading System](/stockspot)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[AIchessbot — UCI Chess Engine (~3100 Elo)](https://github.com/atatti-240/AIchessbot)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-
-
+[AI Trading Assistant](https://github.com/atatti-240/ai-finance-trading-assistant)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+### Other Highlights
+
+- Co-founded Farmers Forward, a farm-tech project building a model that turns NPK/EC/pH soil sensor readings into guidance for small farmers
+- Eagle Scout candidate — leading a park improvement project at Eagle Landing Park
+- Qualified for TSA (Technology Student Association) Nationals in Software Development
+- AWS Cloud Practitioner certified (863/1000)
+- AP Scholar with Distinction — 3.5+ average across all AP exams taken
+
+---
+
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>a></p>p>
 <!-- Remove above link if you don't want to attibute -->
