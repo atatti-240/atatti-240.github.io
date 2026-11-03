@@ -1,5 +1,5 @@
 title: Agasthya Tatti # your name (or website title) here
-logo: "/images/profile.jpg" # your photo (or logo) here
+logo: "/images/profile.png" # your photo (or logo) here
 description: "High schooler in the Katy/Fulshear, TX area building AI/ML and data tools that solve real problems.<br><br>Currently building StockSpot, a multi-signal algorithmic trading system, BlindSpot, a predictive Houston commute planner, and Farmers Forward, a soil-data app for local farms."
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
