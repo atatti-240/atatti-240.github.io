@@ -12,7 +12,7 @@ ML pipeline that forecasts weather outcomes and backtests them against Kalshi ma
 
 [BlindSpot: Houston Commute Planner](/blindspot)
 
-Team-built in 48 hours. Predicts train blockages, crash-prone stretches, and congestion to tell Houston commuters when to leave and which way to go, with live AI traffic cameras.
+2nd place at a Houston hackathon. Team-built in 48 hours. Predicts train blockages, crash-prone stretches, and congestion to tell Houston commuters when to leave and which way to go, with live AI traffic cameras.
 
 ---
 
@@ -36,10 +36,11 @@ C++ engine using bitboards, NNUE evaluation, Syzygy tablebases, and Lazy SMP.
 
 ### Other Highlights
 
+- 2nd place at a Houston hackathon with BlindSpot
 - CyberPatriot cybersecurity team, responsible for Windows hardening
 - Completed PACT 2026 at the University of Pennsylvania (Mathematical Foundations of CS: proofs, combinatorics, discrete math)
 - Qualified for TSA (Technology Student Association) Nationals in Software Development
-- AWS Cloud Practitioner certified (863/1000) and Java certified
+- AWS Cloud Practitioner and Java certified
 - AP Scholar with Distinction
 - Eagle Scout candidate, leading a park improvement project at Eagle Landing Park
 
