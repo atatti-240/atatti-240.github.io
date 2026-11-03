@@ -4,6 +4,10 @@
 
 **My role:** I owned the routing engine, the prediction models, and the backend.
 
+**[Try it live at blind-spot.app](https://blind-spot.app/)**
+
+<img src="images/blindspot.jpg" alt="BlindSpot live traffic map of Houston"/>
+
 ### What it predicts
 
 - **Freight trains blocking at-grade crossings**, learned per crossing for every 15-minute slot of the week

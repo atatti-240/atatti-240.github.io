@@ -12,7 +12,7 @@ ML pipeline that forecasts weather outcomes and backtests them against Kalshi ma
 
 [BlindSpot: Houston Commute Planner](/blindspot)
 
-2nd place at the Impact Hub Houston Hackathon. Team-built in 48 hours. Predicts train blockages, crash-prone stretches, and congestion to tell Houston commuters when to leave and which way to go, with live AI traffic cameras.
+2nd place at the Impact Hub Houston Hackathon. Team-built in 48 hours. Predicts train blockages, crash-prone stretches, and congestion to tell Houston commuters when to leave and which way to go, with live AI traffic cameras. [Live demo](https://blind-spot.app/)
 
 ---
 
