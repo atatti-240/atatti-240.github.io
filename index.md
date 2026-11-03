@@ -16,9 +16,9 @@ ML pipeline that forecasts weather outcomes and backtests them against Kalshi ma
 
 ---
 
-[Farmers Forward: Farm Tech for Small Farms](https://github.com/atatti-240)
+[Farmers Forward: Farm Tech for Small Farms](/farmers-forward)
 
-Co-founded with friends. Built a model that turns raw NPK, EC, and pH soil readings into guidance small farms in Fort Bend County can act on. Entered in the Congressional App Challenge.
+Co-founded with friends. Built a model that turns raw NPK, EC, and pH soil readings into guidance small farms in Fort Bend County can act on. Entered in the Congressional App Challenge. [Live app](https://farmersforward-r4ty.onrender.com/)
 
 ---
 
