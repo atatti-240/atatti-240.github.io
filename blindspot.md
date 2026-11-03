@@ -1,6 +1,6 @@
 ## BlindSpot: Houston Commute Planner
 
-**Project description:** BlindSpot tells Houston commuters when to leave and which way to go, before traffic hits. Waze and Google Maps react to congestion after it forms; BlindSpot predicts the things they miss. Won **2nd place at a Houston hackathon**, built by a team in 48 hours.
+**Project description:** BlindSpot tells Houston commuters when to leave and which way to go, before traffic hits. Waze and Google Maps react to congestion after it forms; BlindSpot predicts the things they miss. Won **2nd place at the Impact Hub Houston Hackathon**, built by a team in 48 hours.
 
 **My role:** I owned the routing engine, the prediction models, and the backend.
 
