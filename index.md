@@ -42,7 +42,7 @@ C++ engine using bitboards, NNUE evaluation, Syzygy tablebases, and Lazy SMP.
 - Qualified for TSA (Technology Student Association) Nationals in Software Development
 - AWS Cloud Practitioner and Java certified
 - AP Scholar with Distinction
-- Eagle Scout candidate, leading a park improvement project at Eagle Landing Park
+- Eagle Scout candidate, leading a park improvement project at Penn Lake
 
 ---
 
