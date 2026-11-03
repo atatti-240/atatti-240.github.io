@@ -1,6 +1,6 @@
 ## StockSpot
 
-**Project description:** StockSpot is a solo-built algorithmic trading system that has evolved since mid-2025 from a basic trading dashboard into a multi-signal machine learning pipeline. The current focus is a weather-driven signal stack, built through a Polygence research mentorship, extending toward crypto, sports arbitrage, and shipping signals.
+**Project description:** StockSpot is a solo-built algorithmic trading system that has evolved since mid-2025 from a basic trading dashboard into a multi-signal machine learning pipeline. The current focus is a weather-driven signal stack, extending toward crypto, sports arbitrage, and shipping signals.
 
 ### Weather ML Model
 
