@@ -10,8 +10,6 @@ Three strategies backtested against Kalshi markets across NYC, Chicago, LA, Denv
 - S2 Extreme Weather — still refining (currently negative R²)
 - S3 Three-Day Trend — R² = 0.137
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ### Tech Stack
 
 Python 3.14, XGBoost, LightGBM, and scikit-learn, pulling data from Open-Meteo and the Kalshi API, running on a DigitalOcean droplet via cron.
