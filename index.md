@@ -22,9 +22,9 @@ Co-founded with friends. Built a model that turns raw NPK, EC, and pH soil readi
 
 ---
 
-[AIchessbot: UCI Chess Engine (~3100 Elo)](https://github.com/atatti-240/AIchessbot)
+[AIchessbot: UCI Chess Engine (~3100 Elo)](/aichessbot)
 
-C++ engine using bitboards, NNUE evaluation, Syzygy tablebases, and Lazy SMP.
+C++ engine I wrote from scratch, using bitboards, NNUE evaluation, multi-core Lazy SMP search, and Syzygy endgame tablebases.
 
 ---
 
