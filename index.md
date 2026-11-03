@@ -6,7 +6,7 @@
 
 [StockSpot: Algorithmic Trading System](/stockspot)
 
-ML pipeline that forecasts weather outcomes and backtests them against Kalshi markets, running on a cloud server I maintain.
+ML pipeline that forecasts next-day highs in 13 US cities (R² = 0.95 live) and paper-trades Kalshi weather markets 24/7 on a cloud server I maintain.
 
 ---
 
